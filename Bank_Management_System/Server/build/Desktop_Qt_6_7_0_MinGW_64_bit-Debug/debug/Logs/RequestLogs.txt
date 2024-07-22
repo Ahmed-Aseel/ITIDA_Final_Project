@@ -1,0 +1,67 @@
+21.07.2024 22:11:28.519 | Handle logIn request
+21.07.2024 22:11:39.834 | Destroying the RequestHandler object along with its resources
+21.07.2024 22:11:39.835 | Handle logIn request
+21.07.2024 22:11:45.691 | Destroying the RequestHandler object along with its resources
+21.07.2024 22:11:45.692 | Handle logIn request
+21.07.2024 22:11:54.053 | Destroying the RequestHandler object along with its resources
+21.07.2024 22:11:54.055 | Handle viewBankDB request
+21.07.2024 22:12:23.526 | Destroying the RequestHandler object along with its resources
+21.07.2024 22:12:23.527 | Handle createUser request
+21.07.2024 22:12:32.198 | Destroying the RequestHandler object along with its resources
+21.07.2024 22:12:32.199 | Handle createUser request
+21.07.2024 22:12:35.554 | Destroying the RequestHandler object along with its resources
+21.07.2024 22:12:35.555 | Handle viewBankDB request
+21.07.2024 22:13:06.214 | Destroying the RequestHandler object along with its resources
+21.07.2024 22:13:06.216 | Handle updateUser request
+21.07.2024 22:13:08.642 | Destroying the RequestHandler object along with its resources
+21.07.2024 22:13:08.644 | Handle viewBankDB request
+21.07.2024 22:13:24.672 | Destroying the RequestHandler object along with its resources
+21.07.2024 22:13:24.673 | Handle deleteUser request
+21.07.2024 22:13:27.422 | Destroying the RequestHandler object along with its resources
+21.07.2024 22:13:27.424 | Handle viewBankDB request
+21.07.2024 22:13:33.592 | Destroying the RequestHandler object along with its resources
+21.07.2024 22:13:33.593 | Handle deleteUser request
+21.07.2024 22:13:48.020 | Destroying the RequestHandler object along with its resources
+21.07.2024 22:13:48.021 | Handle getAccount_Number request
+21.07.2024 22:13:54.295 | Destroying the RequestHandler object along with its resources
+21.07.2024 22:13:54.296 | Handle getAccount_Number request
+21.07.2024 22:14:35.304 | Destroying the RequestHandler object along with its resources
+21.07.2024 22:14:35.305 | Handle getAccount_Number request
+21.07.2024 22:14:55.296 | Destroying the RequestHandler object along with its resources
+21.07.2024 22:14:55.297 | Handle viewAccount_Balance request
+21.07.2024 22:15:08.050 | Destroying the RequestHandler object along with its resources
+21.07.2024 22:15:08.051 | Handle viewTransaction_History request
+21.07.2024 22:15:25.438 | Destroying the RequestHandler object along with its resources
+21.07.2024 22:15:25.439 | Handle logIn request
+21.07.2024 22:15:28.763 | Destroying the RequestHandler object along with its resources
+21.07.2024 22:15:28.764 | Handle getAccount_Number request
+21.07.2024 22:15:31.712 | Destroying the RequestHandler object along with its resources
+21.07.2024 22:15:31.713 | Handle viewAccount_Balance request
+21.07.2024 22:15:40.655 | Destroying the RequestHandler object along with its resources
+21.07.2024 22:15:40.656 | Handle makeTransaction request
+21.07.2024 22:16:02.245 | Destroying the RequestHandler object along with its resources
+21.07.2024 22:16:02.246 | Handle viewTransaction_History request
+21.07.2024 22:16:17.900 | Destroying the RequestHandler object along with its resources
+21.07.2024 22:16:17.902 | Handle transferAmount request
+21.07.2024 22:16:24.718 | Destroying the RequestHandler object along with its resources
+21.07.2024 22:16:24.720 | Handle viewTransaction_History request
+21.07.2024 22:16:31.625 | Destroying the RequestHandler object along with its resources
+21.07.2024 22:16:31.626 | Handle viewAccount_Balance request
+21.07.2024 22:16:45.667 | Destroying the RequestHandler object along with its resources
+21.07.2024 22:16:45.668 | Handle logIn request
+21.07.2024 22:16:49.560 | Destroying the RequestHandler object along with its resources
+21.07.2024 22:16:49.561 | Handle viewBankDB request
+21.07.2024 22:17:02.934 | Destroying the RequestHandler object along with its resources
+21.07.2024 22:17:02.935 | Handle viewTransaction_History request
+21.07.2024 22:17:16.660 | Destroying the RequestHandler object along with its resources
+21.07.2024 22:17:16.661 | Handle viewAccount_Balance request
+21.07.2024 22:17:23.949 | Destroying the RequestHandler object along with its resources
+21.07.2024 22:17:23.950 | Handle viewAccount_Balance request
+21.07.2024 22:18:18.948 | Handle logIn request
+21.07.2024 22:18:30.335 | Handle logIn request
+21.07.2024 22:18:39.448 | Destroying the RequestHandler object along with its resources
+21.07.2024 22:18:39.449 | Handle getAccount_Number request
+21.07.2024 22:18:44.865 | Destroying the RequestHandler object along with its resources
+21.07.2024 22:18:44.867 | Handle getAccount_Number request
+21.07.2024 22:18:49.722 | Destroying the RequestHandler object along with its resources
+21.07.2024 22:18:49.723 | Handle viewTransaction_History request

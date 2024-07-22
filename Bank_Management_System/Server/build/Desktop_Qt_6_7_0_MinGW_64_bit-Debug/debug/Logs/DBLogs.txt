@@ -1,0 +1,72 @@
+21.07.2024 22:11:28.825 | Handle logIn request
+21.07.2024 22:11:28.826 | Incorrect Username.
+21.07.2024 22:11:39.835 | Handle logIn request
+21.07.2024 22:11:39.836 | Incorrect Password.
+21.07.2024 22:11:45.692 | Handle logIn request
+21.07.2024 22:11:45.692 | User: Ahmed25 has logged in successfully.
+21.07.2024 22:11:54.055 | Handle viewBankDB request
+21.07.2024 22:11:54.055 | Return the database content.
+21.07.2024 22:12:23.528 | Handle createUser request
+21.07.2024 22:12:23.529 | Username already taken.
+21.07.2024 22:12:32.200 | Handle createUser request
+21.07.2024 22:12:32.201 | User: Ahmed26 created successfully.
+21.07.2024 22:12:35.555 | Handle viewBankDB request
+21.07.2024 22:12:35.556 | Return the database content.
+21.07.2024 22:13:06.217 | Handle updateUser request
+21.07.2024 22:13:06.218 | User: 199 updated successfully.
+21.07.2024 22:13:08.644 | Handle viewBankDB request
+21.07.2024 22:13:08.645 | Return the database content.
+21.07.2024 22:13:24.673 | Handle deleteUser request
+21.07.2024 22:13:24.674 | User: 199 deleted successfully.
+21.07.2024 22:13:27.424 | Handle viewBankDB request
+21.07.2024 22:13:27.425 | Return the database content.
+21.07.2024 22:13:33.593 | Handle deleteUser request
+21.07.2024 22:13:33.594 | User: 199 not found.
+21.07.2024 22:13:48.022 | Handle getAccount_Number request
+21.07.2024 22:13:48.023 | User: Ahmed not found.
+21.07.2024 22:13:54.296 | Handle getAccount_Number request
+21.07.2024 22:13:54.297 | Return account number of the user.
+21.07.2024 22:14:35.305 | Handle getAccount_Number request
+21.07.2024 22:14:35.306 | Return account number of the user.
+21.07.2024 22:14:55.297 | Handle viewAccount_Balance request
+21.07.2024 22:14:55.298 | Return balance of the user.
+21.07.2024 22:15:08.051 | Handle viewTransaction_History request
+21.07.2024 22:15:08.052 | No transactions history of the user found.
+21.07.2024 22:15:25.439 | Handle logIn request
+21.07.2024 22:15:25.440 | User: Shimaa98 has logged in successfully.
+21.07.2024 22:15:28.765 | Handle getAccount_Number request
+21.07.2024 22:15:28.766 | Return account number of the user.
+21.07.2024 22:15:31.714 | Handle viewAccount_Balance request
+21.07.2024 22:15:31.714 | Return balance of the user.
+21.07.2024 22:15:40.657 | Handle makeTransaction request
+21.07.2024 22:15:40.658 | Transaction done successful.
+21.07.2024 22:16:02.247 | Handle viewTransaction_History request
+21.07.2024 22:16:02.248 | Return transactions history of the user.
+21.07.2024 22:16:17.902 | Handle transferAmount request
+21.07.2024 22:16:17.903 | Transaction done successful.
+21.07.2024 22:16:17.905 | Transaction done successful.
+21.07.2024 22:16:17.906 | Transfer done successful.
+21.07.2024 22:16:24.721 | Handle viewTransaction_History request
+21.07.2024 22:16:24.722 | Return transactions history of the user.
+21.07.2024 22:16:31.627 | Handle viewAccount_Balance request
+21.07.2024 22:16:31.628 | Return balance of the user.
+21.07.2024 22:16:45.668 | Handle logIn request
+21.07.2024 22:16:45.669 | User: Ahmed25 has logged in successfully.
+21.07.2024 22:16:49.562 | Handle viewBankDB request
+21.07.2024 22:16:49.563 | Return the database content.
+21.07.2024 22:17:02.935 | Handle viewTransaction_History request
+21.07.2024 22:17:02.937 | Return transactions history of the user.
+21.07.2024 22:17:16.661 | Handle viewAccount_Balance request
+21.07.2024 22:17:16.662 | Return balance of the user.
+21.07.2024 22:17:23.951 | Handle viewAccount_Balance request
+21.07.2024 22:17:23.952 | Return balance of the user.
+21.07.2024 22:18:18.948 | Handle logIn request
+21.07.2024 22:18:18.949 | User: Ahmed25 has logged in successfully.
+21.07.2024 22:18:30.335 | Handle logIn request
+21.07.2024 22:18:30.336 | User: Shimaa98 has logged in successfully.
+21.07.2024 22:18:39.450 | Handle getAccount_Number request
+21.07.2024 22:18:39.450 | Return account number of the user.
+21.07.2024 22:18:44.867 | Handle getAccount_Number request
+21.07.2024 22:18:44.868 | Return account number of the user.
+21.07.2024 22:18:49.723 | Handle viewTransaction_History request
+21.07.2024 22:18:49.724 | Return transactions history of the user.

@@ -1,0 +1,40 @@
+{
+    "Ahmed25": {
+        "AccountBalance": "200",
+        "AccountNumber": "100",
+        "Age": "24",
+        "FullName": "Ahmed Aseel",
+        "IsAdmin": true,
+        "Password": "252000",
+        "TransactionHistory": [
+            {
+                "Amount": "200",
+                "Date": "21-07-2024",
+                "Time": "22:16:17",
+                "Type": "Deposit"
+            }
+        ]
+    },
+    "Shimaa98": {
+        "AccountBalance": "300",
+        "AccountNumber": "200",
+        "Age": "26",
+        "FullName": "Shimaa Aseel",
+        "IsAdmin": false,
+        "Password": "891998",
+        "TransactionHistory": [
+            {
+                "Amount": "500",
+                "Date": "21-07-2024",
+                "Time": "22:15:40",
+                "Type": "Deposit"
+            },
+            {
+                "Amount": "-200",
+                "Date": "21-07-2024",
+                "Time": "22:16:17",
+                "Type": "Withdraw"
+            }
+        ]
+    }
+}
