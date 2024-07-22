@@ -1,15 +1,15 @@
-# ITIDA_Final_Project:- Bank System
+# ITIDA_Final_Project :- Bank System
 
 A bank system Based on the client-server model and developed with Qt framework.
 
-## About The System:
+## About The System :
 
 A graphical user interface (GUI) allows user to perform several services depending on the user authorization
 there are two user types :-
 - Admin User
 - Standered User
 
-### Admin services:
+### Admin services :
 - Create new user.
 - Update user.
 - Delete user.
@@ -18,7 +18,7 @@ there are two user types :-
 - View transaction history of a particular user.
 - View bank database.
 
-### User services:
+### User services :
 - Get account number.
 - View account balance.
 - View transaction history.
@@ -36,7 +36,7 @@ you can log in to the system either as a standared user or as an admin.
 - Global mutex shared among all the threads to prevent data race over the Data base.
 
 
-### Client Application:
+### Client Application :
 - Gui application.
 - Separate thread for the logic.
 - Each functionality provided by the gui is implemented separately.
